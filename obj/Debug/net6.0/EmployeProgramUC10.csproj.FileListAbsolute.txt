@@ -1,0 +1,15 @@
+D:\RFP-240\EmployeWage\EmployeProgramUC10\EmployeProgramUC10\bin\Debug\net6.0\EmployeProgramUC10.exe
+D:\RFP-240\EmployeWage\EmployeProgramUC10\EmployeProgramUC10\bin\Debug\net6.0\EmployeProgramUC10.deps.json
+D:\RFP-240\EmployeWage\EmployeProgramUC10\EmployeProgramUC10\bin\Debug\net6.0\EmployeProgramUC10.runtimeconfig.json
+D:\RFP-240\EmployeWage\EmployeProgramUC10\EmployeProgramUC10\bin\Debug\net6.0\EmployeProgramUC10.dll
+D:\RFP-240\EmployeWage\EmployeProgramUC10\EmployeProgramUC10\bin\Debug\net6.0\EmployeProgramUC10.pdb
+D:\RFP-240\EmployeWage\EmployeProgramUC10\EmployeProgramUC10\obj\Debug\net6.0\EmployeProgramUC10.csproj.AssemblyReference.cache
+D:\RFP-240\EmployeWage\EmployeProgramUC10\EmployeProgramUC10\obj\Debug\net6.0\EmployeProgramUC10.GeneratedMSBuildEditorConfig.editorconfig
+D:\RFP-240\EmployeWage\EmployeProgramUC10\EmployeProgramUC10\obj\Debug\net6.0\EmployeProgramUC10.AssemblyInfoInputs.cache
+D:\RFP-240\EmployeWage\EmployeProgramUC10\EmployeProgramUC10\obj\Debug\net6.0\EmployeProgramUC10.AssemblyInfo.cs
+D:\RFP-240\EmployeWage\EmployeProgramUC10\EmployeProgramUC10\obj\Debug\net6.0\EmployeProgramUC10.csproj.CoreCompileInputs.cache
+D:\RFP-240\EmployeWage\EmployeProgramUC10\EmployeProgramUC10\obj\Debug\net6.0\EmployeProgramUC10.dll
+D:\RFP-240\EmployeWage\EmployeProgramUC10\EmployeProgramUC10\obj\Debug\net6.0\refint\EmployeProgramUC10.dll
+D:\RFP-240\EmployeWage\EmployeProgramUC10\EmployeProgramUC10\obj\Debug\net6.0\EmployeProgramUC10.pdb
+D:\RFP-240\EmployeWage\EmployeProgramUC10\EmployeProgramUC10\obj\Debug\net6.0\EmployeProgramUC10.genruntimeconfig.cache
+D:\RFP-240\EmployeWage\EmployeProgramUC10\EmployeProgramUC10\obj\Debug\net6.0\ref\EmployeProgramUC10.dll
