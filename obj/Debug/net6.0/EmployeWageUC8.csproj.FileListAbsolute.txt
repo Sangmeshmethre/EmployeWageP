@@ -1,0 +1,15 @@
+D:\RFP-240\EmployeWage\EmployeWageUC8\EmployeWageUC8\bin\Debug\net6.0\EmployeWageUC8.exe
+D:\RFP-240\EmployeWage\EmployeWageUC8\EmployeWageUC8\bin\Debug\net6.0\EmployeWageUC8.deps.json
+D:\RFP-240\EmployeWage\EmployeWageUC8\EmployeWageUC8\bin\Debug\net6.0\EmployeWageUC8.runtimeconfig.json
+D:\RFP-240\EmployeWage\EmployeWageUC8\EmployeWageUC8\bin\Debug\net6.0\EmployeWageUC8.dll
+D:\RFP-240\EmployeWage\EmployeWageUC8\EmployeWageUC8\bin\Debug\net6.0\EmployeWageUC8.pdb
+D:\RFP-240\EmployeWage\EmployeWageUC8\EmployeWageUC8\obj\Debug\net6.0\EmployeWageUC8.csproj.AssemblyReference.cache
+D:\RFP-240\EmployeWage\EmployeWageUC8\EmployeWageUC8\obj\Debug\net6.0\EmployeWageUC8.GeneratedMSBuildEditorConfig.editorconfig
+D:\RFP-240\EmployeWage\EmployeWageUC8\EmployeWageUC8\obj\Debug\net6.0\EmployeWageUC8.AssemblyInfoInputs.cache
+D:\RFP-240\EmployeWage\EmployeWageUC8\EmployeWageUC8\obj\Debug\net6.0\EmployeWageUC8.AssemblyInfo.cs
+D:\RFP-240\EmployeWage\EmployeWageUC8\EmployeWageUC8\obj\Debug\net6.0\EmployeWageUC8.csproj.CoreCompileInputs.cache
+D:\RFP-240\EmployeWage\EmployeWageUC8\EmployeWageUC8\obj\Debug\net6.0\EmployeWageUC8.dll
+D:\RFP-240\EmployeWage\EmployeWageUC8\EmployeWageUC8\obj\Debug\net6.0\refint\EmployeWageUC8.dll
+D:\RFP-240\EmployeWage\EmployeWageUC8\EmployeWageUC8\obj\Debug\net6.0\EmployeWageUC8.pdb
+D:\RFP-240\EmployeWage\EmployeWageUC8\EmployeWageUC8\obj\Debug\net6.0\EmployeWageUC8.genruntimeconfig.cache
+D:\RFP-240\EmployeWage\EmployeWageUC8\EmployeWageUC8\obj\Debug\net6.0\ref\EmployeWageUC8.dll
