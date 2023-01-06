@@ -1,0 +1,15 @@
+D:\RFP-240\EmployeWage\EmployeProgramUC13\EmployeProgramUC13\bin\Debug\net6.0\EmployeProgramUC13.exe
+D:\RFP-240\EmployeWage\EmployeProgramUC13\EmployeProgramUC13\bin\Debug\net6.0\EmployeProgramUC13.deps.json
+D:\RFP-240\EmployeWage\EmployeProgramUC13\EmployeProgramUC13\bin\Debug\net6.0\EmployeProgramUC13.runtimeconfig.json
+D:\RFP-240\EmployeWage\EmployeProgramUC13\EmployeProgramUC13\bin\Debug\net6.0\EmployeProgramUC13.dll
+D:\RFP-240\EmployeWage\EmployeProgramUC13\EmployeProgramUC13\bin\Debug\net6.0\EmployeProgramUC13.pdb
+D:\RFP-240\EmployeWage\EmployeProgramUC13\EmployeProgramUC13\obj\Debug\net6.0\EmployeProgramUC13.csproj.AssemblyReference.cache
+D:\RFP-240\EmployeWage\EmployeProgramUC13\EmployeProgramUC13\obj\Debug\net6.0\EmployeProgramUC13.GeneratedMSBuildEditorConfig.editorconfig
+D:\RFP-240\EmployeWage\EmployeProgramUC13\EmployeProgramUC13\obj\Debug\net6.0\EmployeProgramUC13.AssemblyInfoInputs.cache
+D:\RFP-240\EmployeWage\EmployeProgramUC13\EmployeProgramUC13\obj\Debug\net6.0\EmployeProgramUC13.AssemblyInfo.cs
+D:\RFP-240\EmployeWage\EmployeProgramUC13\EmployeProgramUC13\obj\Debug\net6.0\EmployeProgramUC13.csproj.CoreCompileInputs.cache
+D:\RFP-240\EmployeWage\EmployeProgramUC13\EmployeProgramUC13\obj\Debug\net6.0\EmployeProgramUC13.dll
+D:\RFP-240\EmployeWage\EmployeProgramUC13\EmployeProgramUC13\obj\Debug\net6.0\refint\EmployeProgramUC13.dll
+D:\RFP-240\EmployeWage\EmployeProgramUC13\EmployeProgramUC13\obj\Debug\net6.0\EmployeProgramUC13.pdb
+D:\RFP-240\EmployeWage\EmployeProgramUC13\EmployeProgramUC13\obj\Debug\net6.0\EmployeProgramUC13.genruntimeconfig.cache
+D:\RFP-240\EmployeWage\EmployeProgramUC13\EmployeProgramUC13\obj\Debug\net6.0\ref\EmployeProgramUC13.dll
